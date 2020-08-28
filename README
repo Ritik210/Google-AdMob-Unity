@@ -3,7 +3,7 @@ This is the google admob ads implmentation of unity.
 There are three type of AdMobs:
 1. Banner Ad
 2. Interstitial Ad
-3.
+3. Reward
 
 First you need to import admob plugins in unity- https://github.com/googleads/googleads-mobile-plugins/releases/latest (Plugin Download link).
 
